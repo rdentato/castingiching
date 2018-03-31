@@ -1,0 +1,241 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!--
+ CC-BY 2016 by Remo Dentato rdentato@gmail.com
+ This page (including images and js code) is released under the terms of the 
+ "Creative Commons Attribution" Licence.
+ You are free to use and modify it, as long as you give the proper credits 
+-->
+<head>
+<link href='https://fonts.googleapis.com/css?family=Tillana:500' rel='stylesheet' type='text/css'>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<style>
+.cursiv { font-family: 'Tillana', cursive; }
+
+.hexnum {
+   font-family: 'Tillana', cursive; 
+   font-size: normal;
+   font-weight: bold;
+   text-align: center;
+   vertical-align: middle;
+}
+
+a {  text-decoration: none;  color: #000; }
+a:hover { color: #D00;}
+ 
+.line_hex {float: center; width: 90px; height: 16px;}
+.tbl_hex  {vertical-align: top;}
+
+</style>
+<script language="javascript">
+var h1 = 0;
+var h2 = 0;
+var nbits = 0;
+var num = 0;
+var lastb = -1;
+var lastx = 0;
+var lasty = 0;
+var nlines = 0;
+var lines=[];
+var map0 = [8,7,6,9,8,7,7,8,8,7,8,9,9,8,8,7,
+            7,9,8,8,8,7,9,6,7,7,8,9,8,8,7,8];
+          //0 1 2 3 4 5 6 7 8 9 A B C D E F
+		  
+var hexnums = [
+  2,24, 7,19,15,36,46,11,16,51,40,54,62,55,32,34,
+  8, 3,29,60,39,63,48, 5,45,17,47,58,31,49,28,43,
+  23,27, 4,41,52,22,18,26,35,21,64,38,56,30,50,14,
+  20,42,59,61,53,37,57, 9,12,25, 6,10,33,13,44, 1
+];
+
+		
+function reading(hex,hlns)
+{
+  var e = document.getElementById("reading");
+  var v = e.options[e.selectedIndex].value;
+
+  hrf = "";
+  
+  if ( v == "panther") {
+    if (hex <= 10) { hrf="1-10" } else
+    if (hex <= 20) { hrf="11-20" } else 
+    if (hex <= 30) { hrf="21-30" } else 
+    if (hex <= 41) { hrf="31-41" } else 
+    if (hex <= 52) { hrf="42-52" }
+    else           { hrf="53-64" }
+    hrf = "http://www.pantherwebworks.com/i_ching/bk1h" + hrf +".html#"+hex;
+  }
+  else if (v == "barret") {
+    for (k=0;k<6;k++) { hrf = hrf+""+lines[k]; }
+    hrf="http://www.onlineclarity.co.uk/reading/free-online-i-ching/your-reading/?lines="+hrf+"&text=barrett";
+  }
+  else if (v == "lise") {
+    if (hex <10) hex = "0"+hex
+    hrf="http://www.yijing.nl/hex/hex_"+hex+".html";
+  }
+  else if (v == "visionary") {
+    hrf="http://divination.com/iching/lookup/"+hex+"-2/";
+  }
+  else if (v == "ifate") {
+    for (k=0;k<6;k++) { hrf = hrf+""+lines[k]; }
+    hrf="http://www.ifate.com/iching_reading.html?I"+hrf;
+  } else if (v =="ybridge") {
+    hrf = ((hex <10) ? "0" : "") + hex;
+	hrf = "http://www.yellowbridge.com/onlinelit/yijing"+hrf+".php"
+  }
+  else if (v == "sdrum") {
+	for (m = 32; m > 0; m = m>>1) { hrf = hrf + ((hlns & m)? "1":"0"); }
+    hrf="http://shamanicdrumming.com/iching/"+hrf+".html";
+  }
+  else if (v == "theichingcom") {
+    hrf="http://the-iching.com/hexagram_"+hex;
+  }
+  else {
+    hrf = "https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_"+hex;
+  }
+  e = document.getElementById("go_lnk")
+  e.href=hrf;
+  e.click();
+  
+  return false;
+}			
+
+
+function hexlnk(h)
+{
+  hex = hexnums[h];
+  return "<a href='#' class='hexnum' onclick='return reading("+hex+","+h+");'>" + hex + "</a>";
+}
+
+function writelines()
+{
+  h1 = 0; h2 = 0;
+  for (k = 5; k >= 0; k--) {
+    s = "line_" + (k+1);
+    b1 = 0; b2 = 0;
+    if (lines[k] > 0)	{
+      b1 = lines[k] & 1;
+      b2 = (lines[k] >> 1) &1;
+      document.getElementById(s).src = "imgs/" + lines[k] +"0.jpg";
+      h1 = (h1 << 1) | b1 ; h2 =  (h2 <<1) | b2 ;
+	  }
+    else {
+      document.getElementById(s).src = "imgs/nn.jpg";
+    }
+  }
+  if (nlines == 6) {
+    s = hexlnk(h1)
+	  if (h1 != h2) { s = s+ " > " + hexlnk(h2);}
+    document.getElementById("hex").innerHTML = s;
+  }
+  else {
+    document.getElementById("hex").innerHTML = "&nbsp;";
+  }
+}
+
+function gotline(ln)
+{
+  if (nlines<6 && ln > 0) {
+    lines[nlines] = ln;
+    nlines++;
+    writelines();
+  }
+  else if (nlines > 0 && ln == 0) {
+    nlines--;
+    lines[nlines] = 0;
+    writelines();
+  }
+}
+
+function getbit(e,w) {
+  if (nlines < 6) {
+	// get a bit depending on WHERE and WHEN you clicked/moved
+    x = e.clientX; y = e.clientY;
+    d = new Date(); m = d.getTime();
+    // skip if movement is too small or too close in time
+    limit=4;
+    if ((w || ((x >> limit) != (lastx >>limit) && (y>>limit != lasty>>limit))) && (m-lastm)>36) { 
+	  w = w & (m-lastm);
+      lastx = x; lasty = y; lastm = m;
+      x = (w ^ x ^ y) & 1;
+      num = (num << 1) | x;
+      nbits++;
+      if (nbits == 5) { // a number between 0 and 31
+        gotline(map0[num]);
+        num = 0;
+        nbits = 0;
+      }
+    } 
+  }
+}
+
+function cast_init()
+{
+  nbits =  0;
+  num   =  0;
+  lastm = -1;
+  lastx =  0;
+  lasty =  0;
+  nlines = 0;
+  h1 = 0;
+  h2 = 0;
+  lines[0] = 0;
+  lines[1] = 0;
+  lines[2] = 0;
+  lines[3] = 0;
+  lines[4] = 0;
+  lines[5] = 0;
+  
+  document.getElementById("hex").innerHTML = "&nbsp;";
+  writelines();
+
+}
+</script>
+</head>
+<body onload="cast_init();">
+<div class="cursiv">
+Hover or click on the image
+<table class="ic_main">
+<tr><td>
+<img width="128" height="128" onclick="getbit(event,1);" onmousemove="getbit(event,0);" src="imgs/rndpad_s.jpg" alt="Move the mouse or click to generate lines."></td>
+<td style="text-align: center;">
+<table border=0 cellpadding=0 cellspacing=0 class="tbl_hex" align="center" valign="top">
+<tr><td><img class="line_hex" id="line_6" src="imgs/nn.jpg"/></td></tr>
+<tr><td><img class="line_hex" id="line_5" src="imgs/nn.jpg"/></td></tr>
+<tr><td><img class="line_hex" id="line_4" src="imgs/nn.jpg"/></td></tr>
+<tr><td><img class="line_hex" id="line_3" src="imgs/nn.jpg"/></td></tr>
+<tr><td><img class="line_hex" id="line_2" src="imgs/nn.jpg"/></td></tr>
+<tr><td><img class="line_hex" id="line_1" src="imgs/nn.jpg"/></td></tr>
+</table>
+<div id="hex"> </div>
+</td></tr>
+</table>
+<a href="#" id="go_lnk" target="_blank"></a>
+<form style="width: 220px;">
+ <select id="reading" style="width: 220px;">
+  <option value="wikipedia" selected="selected">Wikipedia</option>
+  <option value="barret">Clarity On Line (Hilary Barrett)</option>
+  <option value="lise">Oracle of the sun (LiSe)</option>
+  <option value="visionary">Visionary I Ching (Paul O’Brien)</option>
+  <option value="panther">Panther Webworks (Wilhelm)</option>
+  <option value="ybridge">Yellow Bridge</option>
+  <option value="theichingcom">The-IChing.com</option>
+  <option value="ifate">iFate</option>
+  <option value="sdrum">Shamanic Drumming (Michael Drake)</option>
+</select>
+<!-- <input id="test" /> -->
+</form>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="cast_init();">Reset</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="gotline(6);">6</a>&nbsp;<a href="#" onclick="gotline(7);">7</a>&nbsp;<a href="#" onclick="gotline(8);">8</a>&nbsp;<a href="#" onclick="gotline(9);">9</a>&nbsp;<a href="#" onclick="gotline(0);"><img src="imgs/bs.png" valign="middle" width="20px" height="20px"></img></a>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77900624-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
