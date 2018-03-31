@@ -1,9 +1,7 @@
 # castingiching
-A small javascript application to cast I Ching hexagrams.
+A compact, embeddable, javascript application to cast I Ching hexagrams. 
 
-This it is used as an embedded I-Ching caster on http://www.castingiching.com.
-
-You can see it in action here: https://rdentato.github.io/castingiching/
+You can see it in action embedded in a Bloggger blog: http://www.castingiching.com or plainly naked: https://rdentato.github.io/castingiching .
 
 It can also be used locally just by double clicking on index.html.
 
