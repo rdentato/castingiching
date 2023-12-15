@@ -2,7 +2,13 @@ import sys
 import re
 import random
 
+dir = "/mnt/data"
+
 qst = sys.argv[1]
+
+if qst[0] == '}' :
+    dir = "."
+    qst = qst[1:]
 
 if qst == "@" :
     with open('iching.txt', 'r') as file:
@@ -54,7 +60,7 @@ if (primary_hexagram == 1 and secondary_hexagram == 2) or (primary_hexagram == 2
     mv = [ "all" ]
 
 print(f"Question: \"{qst}\"")
-with open('/mnt/data/iching.txt', 'r') as file:
+with open(f"{dir}/iching.txt", 'r') as file:
     file.seek((primary_hexagram-1) * 6)
     line = file.readline()
     file.seek(int(line))

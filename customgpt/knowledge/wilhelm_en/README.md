@@ -1,0 +1,1 @@
+Machine translated from German (see the `wilhelm_de` directory) and manually edited.
