@@ -1,68 +1,68 @@
 00384
-01096
-02076
-03154
-04214
-05022
-06067
-06915
-07962
-08854
-09734
-10964
-11941
-12748
-13552
-14398
-15224
-16121
-17074
-17830
-18676
-19619
-20347
-21130
-22128
-23102
-23992
-25079
-25923
-26941
-27664
-28525
-29248
-30002
-30880
-31802
-32878
-33658
-34754
-35544
-36459
-37651
-38703
-39907
-40810
-41948
-42690
-43859
-44867
-45832
-46811
-47959
-48710
-49803
-50777
-51819
-52789
-53746
-54343
-55187
-55871
-56678
-57848
-58754
-Hexagram: 1 "KIEN / THE CREATIVE"
+01100
+02084
+03166
+04230
+05042
+06091
+06943
+07994
+08890
+09774
+11008
+11989
+12800
+13608
+14458
+15288
+16189
+17146
+17906
+18756
+19703
+20435
+21222
+22224
+23202
+24096
+25187
+26035
+27057
+27784
+28649
+29376
+30134
+31016
+31942
+33022
+33806
+34906
+35700
+36619
+37815
+38871
+40079
+40986
+42128
+42874
+44047
+45059
+46028
+47011
+48163
+48918
+50015
+50993
+52039
+53013
+53974
+54575
+55423
+56111
+56922
+58096
+59006
+Hexagram: 1 "䷀ KIEN / THE CREATIVE"
 Judgment: "The creative works sublime success, fostering through perseverance"
 Image: "The movement of heaven is powerful. This is how the superior man makes himself strong and tireless"
 Line 1.1: "Hidden dragon. Do not act."
@@ -73,7 +73,7 @@ Line 1.5: "Flying dragon in the sky. It is beneficial to see the big man."
 Line 1.6: "Arrogant dragon will have to repent."
 Line all: "A host of headless dragons appears. Hail."
 @
-Hexagram: 2 "KUN / THE RECEPTIVE"
+Hexagram: 2 "䷁ KUN / THE RECEPTIVE"
 Judgment: "The receptive works sublime success, favoured by the perseverance of a mare. If the superior man has something to do and wants to go ahead, he goes astray; but if he follows, he finds guidance. It is favourable to find friends in the west and south, to renounce friends in the east and north. Calm perseverance brings salvation."
 Image: "The state of the earth is receiving devotion. This is how the superior being carries the soot world."
 Line 2.1: "If you step on frost, the solid ice approaches"
@@ -84,7 +84,7 @@ Line 2.5: "Yellow undergarment brings sublime salvation."
 Line 2.6: "Dragons fight on the Anger. Their blood is black and yellow"
 Line all: "Perseverance is the key to success."
 @
-Hexagram: 3 "DSCHUN / THE BEGINNING DIFFICULTY"
+Hexagram: 3 "䷂ DSCHUN / THE BEGINNING DIFFICULTY"
 Judgment: "The initial difficulty works sublime success. Promoted by perseverance. One should do nothing. It is beneficial to use helpers."
 Image: "Clouds and thunder: the image of initial difficulty. This is how the Noble One unravels and organises."
 Line 3.1: "Hesitation and inhibition. It is beneficial to remain persistent. It is beneficial to use helpers."
@@ -94,7 +94,7 @@ Line 3.4: "Horse and carriage separate. Search for union. Going there brings sal
 Line 3.5: "Difficulties in blessing. Small perseverance brings salvation, great perseverance brings disaster."
 Line 3.6: "Horse and cart separate. Bloody tears pour down."
 @
-Hexagram: 4 "MONG / THE YOUTH"
+Hexagram: 4 "䷃ MONG / THE YOUTH"
 Judgment: "Youthful folly has success. I do not seek the young fool, the young fool seeks me. At the first oracle I give information. If he asks twice or three times, that is harassment. If he pesters me, I don't give any information. Persistence is favourable"
 Image: "At the bottom of the mountain a spring comes forth: the image of youth. Thus the superior man nourishes his character through thorough action"
 Line 4.1: "To develop the fool, it is beneficial to discipline the person. The shackles should be removed. Continuing like this brings shame."
@@ -104,7 +104,7 @@ Line 4.4: "Limited folly brings shame."
 Line 4.5: "Childish folly brings salvation."
 Line 4.6: "When punishing folly, it is not beneficial to commit offences. It is only beneficial to ward off offences."
 @
-Hexagram: 5 "SÜ / THE WAIT (THE NUTRITION)"
+Hexagram: 5 "䷄ SÜ / THE WAIT (THE NUTRITION)"
 Judgment: "The waiting. If you are truthful, you will have light and success. Perseverance brings salvation. It is beneficial to cross the great waters."
 Image: "Clouds rise in the sky: the image of waiting. So the noble man eats and drinks and is cheerful and in good spirits."
 Line 5.1: "Waiting on the Anger. It is beneficial to stay in the permanent. Not a flaw."
@@ -114,7 +114,7 @@ Line 5.4: "Waiting in the blood. Out of the hole."
 Line 5.5: "Waiting with wine and food. Perseverance brings salvation."
 Line 5.6: "You get into the hole. There come three uninvited guests. Honour them, and salvation will come in the end."
 @
-Hexagram: 6 "SUNG / THE STRIKE"
+Hexagram: 6 "䷅ SUNG / THE STRIKE"
 Judgment: "The dispute: You are truthful and you are being hindered. Careful pausing halfway brings salvation. Finishing brings disaster. It is favourable to see the great man. It is not beneficial to cross the great water."
 Image: "Heaven and water go in opposite directions: the image of strife. This is how the noble man considers the beginning of all his endeavours."
 Line 6.1: "If you do not immortalise the thing, there is a little talk. Salvation comes at the end."
@@ -124,7 +124,7 @@ Line 6.4: "You cannot argue, turn back and submit to fate, change and find peace
 Line 6.5: "Arguing before him brings sublime salvation."
 Line 6.6: "Even if one is given a leather belt, at the end of the morning it will be torn from him three times."
 @
-Hexagram: 7 "SCHI / THE ARMY"
+Hexagram: 7 "䷆ SCHI / THE ARMY"
 Judgment: "The army needs perseverance and a strong man. Salvation without blemish."
 Image: "In the centre of the earth is water, the image of the army. Thus the superior man increases his masses through generosity towards the people."
 Line 7.1: "An army must go out according to order. If it is not good, disaster threatens."
@@ -134,7 +134,7 @@ Line 7.4: "The army withdraws. No blemish."
 Line 7.5: "There is a game in the field. It is beneficial to catch it. Without blemish. Let the eldest lead the army. The younger one drives corpses, perseverance brings disaster."
 Line 7.6: "The great prince issues orders, founds states, enfeoffs families. Common people are not to be used."
 @
-Hexagram: 8 "BI / THE HOLDING TOGETHER"
+Hexagram: 8 "䷇ BI / THE HOLDING TOGETHER"
 Judgment: "Holding together brings salvation. Fathom the oracle again, whether you have sublimity, endurance and perseverance; then there is no flaw. Those who are uncertain will gradually arrive. He who comes too late has disaster."
 Image: "On earth is water: the image of cohesion. This is how the kings of ancient times granted the individual states as fiefs and cultivated friendly relations with the feudal lords."
 Line 8.1: "Keep true and faithful to him: this is no blemish. Truth like a full bowl of clay: salvation comes from outside."
@@ -144,7 +144,7 @@ Line 8.4: "Outwardly, too, stand by him. Perseverance brings salvation."
 Line 8.5: "Revelation of sticking together. When hunting, the king only allows game to be driven from three sides and refrains from the game that turns in front. The citizens need no warning. Hail !"
 Line 8.6: "He finds no head to hold together. Mischief."
 @
-Hexagram: 9 "SIAU TSCHU / THE LITTLE TENDER"
+Hexagram: 9 "䷈ SIAU TSCHU / THE LITTLE TENDER"
 Judgment: "The little one's taming power has succeeded. Thick clouds, no rain from our western region."
 Image: "The wind sweeps across the sky: the image of the taming power of the small. This is how the superior man refines the outer form of his being."
 Line 9.1: "Return to the path. How would that be a blemish! Hail !"
@@ -154,7 +154,7 @@ Line 9.4: "If you are true, blood disappears and fear gives way. No blemish."
 Line 9.5: "If you are truly and faithfully connected, you will be rich in your neighbour."
 Line 9.6: "It comes to rain, it comes to rest. This is due to the lasting effect of character. The woman comes into danger through perseverance. The moon is almost full. If the superior man leaves, disaster will come."
 @
-Hexagram: 10 "LÜ / THE TREAD"
+Hexagram: 10 "䷉ LÜ / THE TREAD"
 Judgment: "Tread on the tiger's tail. It does not bite man. Succeed."
 Image: "Above the sky, below the lake: the image of appearance. This is how the superior man distinguishes between high and low and thereby strengthens the mind of the people."
 Line 10.1: "Simple appearance. Progress without flaw."
@@ -164,7 +164,7 @@ Line 10.4: "He steps on the tiger's tail. Caution and caution finally lead to sa
 Line 10.5: "Resolute behaviour. Perseverance with awareness of the danger."
 Line 10.6: "Look at your appearance and examine the favourable signs. If everything is perfect, sublime salvation will come."
 @
-Hexagram: 11 "TAI / THE PEACE"
+Hexagram: 11 "䷊ TAI / THE PEACE"
 Judgment: "Peace. The small goes, the great comes. Hail! Success!"
 Image: "Heaven and earth unite: the image of peace. Thus the ruler divides and completes the course of heaven and earth, promotes and organises the gifts of heaven and earth and thus stands by the people."
 Line 11.1: "In the beginning a new one means: If you pull out ribbon grass, the lawn goes with it. Each according to his kind. Endeavours bring salvation."
@@ -174,7 +174,7 @@ Line 11.4: "He flutters down, not insisting on wealth, together with his neighbo
 Line 11.5: "The ruler I gives his daughter in marriage. this brings blessing and sublime salvation."
 Line 11.6: "The rampart falls back into the grave. No armies are needed now. Proclaim your orders in your own city. Perseverance brings shame."
 @
-Hexagram: 12 "PI / THE STAGNATION"
+Hexagram: 12 "䷋ PI / THE STAGNATION"
 Judgment: "The stagnation. Bad people are not conducive to the perseverance of the noble. The great goes, the small comes."
 Image: "Heaven and earth do not unite: the image of stagnation. Thus the superior man withdraws to his inner worth in order to avoid difficulties. He does not allow himself to be honoured by income."
 Line 12.1: "If you pull out ribbon grass, the lawn goes with it. Each after his own kind. Perseverance brings salvation and success."
@@ -184,7 +184,7 @@ Line 12.4: "He who works at the command of the Most High remains without blemish
 Line 12.5: "The stagnation subsides. Hail to the great man! "If it fails, if it fails" Thus he ties it to a bundle of mulberry bushes."
 Line 12.6: "The stagnation stops First stagnation, then salvation."
 @
-Hexagram: 13 "TUNG JEN / COMMUNITY WITH PEOPLE"
+Hexagram: 13 "䷌ TUNG JEN / COMMUNITY WITH PEOPLE"
 Judgment: "Fellowship with people outdoors: Success. It is beneficial to cross the great water. Favourable is the perseverance of the noble."
 Image: "Heaven together with fire: the image of communion with people. This is how the superior man divides the tribes and distinguishes things."
 Line 13.1: "Fellowship with people in the gate. No blemish."
@@ -194,7 +194,7 @@ Line 13.4: "He climbs his wall, he cannot attack. Hail !"
 Line 13.5: "The people together first weep and lament, but later they laugh. After great struggles, they manage to meet."
 Line 13.6: "Fellowship with people on the Anger: no regrets."
 @
-Hexagram: 14 "DA YU / THE POSSESSION OF GREATNESS"
+Hexagram: 14 "䷍ DA YU / THE POSSESSION OF GREATNESS"
 Judgment: "The possession of greatness: sublime success."
 Image: "The fire in the sky above: the image of the possession of greatness. Thus the superior man restrains evil and promotes good and thus obeys the good will of heaven."
 Line 14.1: "No relationship with what is harmful is not a blemish. If one remains aware of the difficulty, one remains without blemish"
@@ -204,7 +204,7 @@ Line 14.4: "He makes a distinction between himself and his neighbour. No blemish
 Line 14.5: "Whose truth is sociable and yet worthy, he has salvation."
 Line 14.6: "From heaven he is blessed, salvation! Nothing that is not beneficial."
 @
-Hexagram: 15 "KIEN / THE DECISION"
+Hexagram: 15 "䷎ KIEN / THE DECISION"
 Judgment: "Modesty creates success. The superior man finishes."
 Image: "In the centre of the earth is a mountain: the image of modesty. Thus the superior man reduces what is too much and increases what is too little. He weighs things and makes them equal."
 Line 15.1: "A humble-modest noble may cross the great water. Hail !"
@@ -214,7 +214,7 @@ Line 15.4: "Nothing that does not promote modesty in movement."
 Line 15.5: "Do not insist on wealth towards your neighbour. It is beneficial to attack with violence. Nothing that is not beneficial."
 Line 15.6: "Expressing modesty. It is favourable to march armies to chastise one's own city and country."
 @
-Hexagram: 16 "YÜ / THE ENTHUSIASM"
+Hexagram: 16 "䷏ YÜ / THE ENTHUSIASM"
 Judgment: "The enthusiasm. It is beneficial to deploy assistants and march armies."
 Image: "Thunder resounds from the earth: the image of enthusiasm. Thus the ancient kings made music to honour the merits and offered them gloriously to the supreme god, inviting their ancestors to join them."
 Line 16.1: "Enthusiasm that expresses itself brings disaster."
@@ -224,7 +224,7 @@ Line 16.4: "The origin of enthusiasm. He achieves great things. Do not doubt. Fr
 Line 16.5: "Persistently ill and yet never dies."
 Line 16.6: "Deluded enthusiasm. But if one comes to change after completion, that is not a flaw."
 @
-Hexagram: 17 "SUI / THE FOLLOW-UP"
+Hexagram: 17 "䷐ SUI / THE FOLLOW-UP"
 Judgment: "Succession has sublime success. Perseverance is conducive. Not a flaw."
 Image: "In the centre of the lake is the thunder: the image of succession. This is how the noble man returns to rest and tranquillity at dusk."
 Line 17.1: "The authoritative changes. Perseverance brings salvation. Going out the door in traffic creates works."
@@ -234,7 +234,7 @@ Line 17.4: "Succession creates success. Perseverance brings disaster. Walking th
 Line 17.5: "Truly in the good. Hail !"
 Line 17.6: "He finds firm attachment and is also bound. The king presents him to the western mountain."
 @
-Hexagram: 18 "GU / THE WORK ON THE CORRUPT"
+Hexagram: 18 "䷑ GU / THE WORK ON THE CORRUPT"
 Judgment: "The work on the corrupt has sublime success. It is beneficial to cross the great water. Three days before the starting point, three days after the starting point."
 Image: "Down on the mountain the wind blows: the image of destruction. This is how the superior man shakes people up and strengthens their spirit."
 Line 18.1: "Correcting what has been spoilt by the father. When there is a son, no stain remains on the father who has gone home. Danger. Finally salvation."
@@ -244,7 +244,7 @@ Line 18.4: "Tolerating what is corrupted by the father. When you continue, you s
 Line 18.5: "Rebuke what the father has corrupted. One finds praise."
 Line 18.6: "Do not serve kings and princes. Set your sights higher."
 @
-Hexagram: 19 "LIN / THE APPROACH"
+Hexagram: 19 "䷒ LIN / THE APPROACH"
 Judgment: "The approach has sublime success. Perseverance is favourable. When the eighth month comes, there is disaster."
 Image: "Above the lake is the earth: the image of approach. Thus the superior man is inexhaustible in his intention to teach and without limits in enduring and protecting the people."
 Line 19.1: "Approaching together. Perseverance brings salvation."
@@ -254,7 +254,7 @@ Line 19.4: "Perfect approach. No blemish."
 Line 19.5: "Wise approach. That is right for a great prince. Hail !"
 Line 19.6: "Magnanimous approach. Hail. No blemish."
 @
-Hexagram: 20 "GUAN / THE CONSIDERATION (THE VIEW)"
+Hexagram: 20 "䷓ GUAN / THE CONSIDERATION (THE VIEW)"
 Judgment: "The contemplation. The ablution is done, but not yet the offering. They look up to him with trust."
 Image: "The wind passes over the earth: the image of contemplation. Thus the ancient kings visited the regions of the world, contemplated the people and gave instruction."
 Line 20.1: "Boyish contemplation. For a lowly man no blemish. Shameful for a noble one."
@@ -264,7 +264,7 @@ Line 20.4: "Contemplation of the light of the kingdom. It is beneficial to work 
 Line 20.5: "Contemplation of my life. The superior man is without blemish."
 Line 20.6: "Contemplation of his life. The superior man is without blemish."
 @
-Hexagram: 21 "SCHI HO / THE PUSH"
+Hexagram: 21 "䷔ SCHI HO / THE PUSH"
 Judgement: "Biting through has success. It is beneficial to let judgement prevail."
 Image: "Thunder and lightning: the image of biting through. Thus the former kings strengthened the laws by clearly defined punishments."
 Line 21.1: "Put your feet in the block so that your toes disappear No blemish."
@@ -274,7 +274,7 @@ Line 21.4: "Bites on dried cartilaginous meat. Receives metal arrows. It is bene
 Line 21.5: "Bites on dried muscle meat. Obtain yellow gold. Persistently aware of danger. No blemish"
 Line 21.6: "Stick your neck in the wooden collar so that your ears disappear. Mischief ! To: "A nine at the beginning" remarks Kungtse: To: "A nine at the top" remarks Kungtse:"
 @
-Hexagram: 22 "BI / THE GRACE"
+Hexagram: 22 "䷕ BI / THE GRACE"
 Judgment: "Grace has success. On a small scale, it is beneficial to do something."
 Image: "Down on the mountain is the fire: the image of grace. This is how the superior man proceeds in clarifying current affairs, but he does not dare to decide disputes afterwards."
 Line 22.1: "Make his toes graceful, leave the chariot and go."
@@ -284,7 +284,7 @@ Line 22.4: "Grace or simplicity? A white horse comes flying: Not robber he is, W
 Line 22.5: "Grace in hills and gardens. The bundle of silk is poor and small. Shame, but salvation in the end."
 Line 22.6: "Simple grace. No blemish."
 @
-Hexagram: 23 "BO / THE FRAGMENTATION"
+Hexagram: 23 "䷖ BO / THE FRAGMENTATION"
 Judgment: "The fragmentation. It is not beneficial to go anywhere."
 Image: "The mountain rests on the earth: the image of fragmentation. The upper classes can only secure their position by making generous donations to the lower classes."
 Line 23.1: "The bed will be shattered by the leg. The persistent will be destroyed. Calamity."
@@ -294,7 +294,7 @@ Line 23.4: "The bed is shattered to the skin. Disaster."
 Line 23.5: "A train of fish. Favour comes through the palace ladies. Everything is favourable."
 Line 23.6: "A great fruit is still uneaten. The superior man receives a chariot. The commoner's house is shattered."
 @
-Hexagram: 24 "FU / THE RETURN (DTHE TURNING TIME)"
+Hexagram: 24 "䷗ FU / THE RETURN (DTHE TURNING TIME)"
 Judgment: "The return. Success. Exit and entrance without error. Friends come without blemish. The path goes to and fro. On the seventh day comes the return. It is beneficial to have where you are going."
 Image: "Thunder in the centre of the earth: the image of the turning point. This is how the ancient kings closed the passes at solstice time. Merchants and foreigners did not wander, and the ruler did not travel the regions."
 Line 24.1: "Return from a short distance. No repentance needed. Great salvation!"
@@ -304,7 +304,7 @@ Line 24.4: "Walking in the midst of others, one returns alone."
 Line 24.5: "Generous return. No regrets."
 Line 24.6: "Failure to return. Disaster. Misfortune from without and within. If you let armies march like this, you will eventually suffer a great defeat, so that it is disastrous for the sovereign. For ten years one is no longer able to attack."
 @
-Hexagram: 25 "WU WANG / THE INNOCENCE (THE UNEXPECTED)"
+Hexagram: 25 "䷘ WU WANG / THE INNOCENCE (THE UNEXPECTED)"
 Judgment: "Innocence. Sublime success. Perseverance is conducive. If someone is not right, he is unlucky, and it is not beneficial to undertake anything."
 Image: "Under heaven the thunder goes: all things attain the natural state of innocence. Thus the ancient kings, rich in virtue and according to the times, nurtured and nourished all beings."
 Line 25.1: "Innocent change brings salvation!"
@@ -314,7 +314,7 @@ Line 25.4: "He who is able to persevere remains without blemish."
 Line 25.5: "Do not use medicine for illness that is not your fault. It will get better by itself."
 Line 25.6: "Innocent action brings misfortune. Nothing is beneficial."
 @
-Hexagram: 26 "DA TSCHU / THE GREAT FORCE OF TENACY"
+Hexagram: 26 "䷙ DA TSCHU / THE GREAT FORCE OF TENACY"
 Judgment: "The taming power of the great. Perseverance is beneficial. Not eating at home brings salvation. It is beneficial to cross the great water."
 Image: "The sky in the centre of the mountain: the image of the Great One's taming power. Thus the superior man learns many words of the past and deeds of the past in order to strengthen his character."
 Line 26.1: "There is danger. It is beneficial to stand aside."
@@ -324,7 +324,7 @@ Line 26.4: "The protective board of a young bull. All hail !"
 Line 26.5: "The tooth of a cut boar. Hail !"
 Line 26.6: "One attains the way of heaven. Succeed."
 @
-Hexagram: 27 "I / THE MOUTH ANGLES (NUTRITION)"
+Hexagram: 27 "䷚ I / THE MOUTH ANGLES (NUTRITION)"
 Judgment: "The corners of the mouth. Perseverance brings salvation. Look at the food and what one seeks to fill his mouth with."
 Image: "Down on the mountain is thunder: the image of nourishment. So the superior man watches his words and is moderate in eating and drinking."
 Line 27.1: "You let your magic turtle go and look at me with the corners of your mouth hanging down. Mischief!"
@@ -334,7 +334,7 @@ Line 27.4: "Turning to the summit for nourishment brings salvation. With sharp e
 Line 27.5: "Deviate from the path. Perseverance brings salvation. One should not cross the great waters."
 Line 27.6: "The source of nourishment. Awareness of danger brings salvation. It is beneficial to cross the great water."
 @
-Hexagram: 28 "DA GO / THE GREAT OVERWEIGHT"
+Hexagram: 28 "䷛ DA GO / THE GREAT OVERWEIGHT"
 Judgment: "The great overweight. The ridge beam bends. It is beneficial to have where to go. Success."
 Image: "The lake goes away over the trees: the image of overweight in the great. Thus the superior man, when he stands alone, is unconcerned, and when he must renounce the world, undaunted."
 Line 28.1: "Underlaid with white reed grass. No blemish."
@@ -344,7 +344,7 @@ Line 28.4: "The ridge beam is supported. Hail. If there are ulterior motives, it
 Line 28.5: "A dry poplar tree sprouts blossoms. An elderly woman gets a husband. No blemish. No praise."
 Line 28.6: "You have to go through the water. It goes over the top.disaster. No blemish."
 @
-Hexagram: 29 "KAN / THE DEGREE, THE WATER"
+Hexagram: 29 "䷜ KAN / THE DEGREE, THE WATER"
 Judgment: "The repeated abysmal. If you are true, you have success in your heart, and what you do is successful."
 Image: "The water flows uninterruptedly and reaches its destination: the image of the repeated abysmal. Thus the superior man walks in constant virtue and practises the business of teaching."
 Line 29.1: "Repetition of the abysmal. You fall into a hole in the abyss. Disaster."
@@ -354,7 +354,7 @@ Line 29.4: "A jug of wine, a rice bowl for good measure, earthenware, simply han
 Line 29.5: "The abyss is not overfilled, it is only filled to the brim. No blemish."
 Line 29.6: "Bound with ropes and cords, locked up between thorn-covered dungeon walls; three years you can't get along. Doom !"
 @
-Hexagram: 30 "LI / THE HARD, THE FIRE"
+Hexagram: 30 "䷝ LI / THE HARD, THE FIRE"
 Judgement: "The liable end. Perseverance is beneficial. It brings success. Care of the cow brings salvation."
 Image: "The light rises twice: the image of fire."
 Line 30.1: "The footprints run criss-cross. If you're serious about it: not a flaw"
@@ -364,7 +364,7 @@ Line 30.4: "Sudden is its coming; it burns up, dies out, is thrown away."
 Line 30.5: "Weeping in torrents, sighing and lamenting. Hail"
 Line 30.6: "The king uses him to go out and chastise. It is best then to kill the heads and capture the followers. No blemish."
 @
-Hexagram: 31 "HIEN / THE EFFECT, THE ADVERTISING"
+Hexagram: 31 "䷞ HIEN / THE EFFECT, THE ADVERTISING"
 Judgment: "The impact. Success. Perseverance is beneficial. Taking a girl brings salvation."
 Image: "There is a lake on the mountain: the image of influence. Thus the superior man lets people approach him through receptivity."
 Line 31.1: "The effect manifests itself in the big toe."
@@ -374,7 +374,7 @@ Line 31.4: "Perseverance brings salvation. Remorse disappears. If you think back
 Line 31.5: "The influence manifests itself in the neck. No remorse."
 Line 31.6: "The effect manifests itself in the jaw, cheeks and tongue."
 @
-Hexagram: 32 "HONG / THE DURATION"
+Hexagram: 32 "䷟ HONG / THE DURATION"
 Judgment: "Duration. Success. Not a flaw. Perseverance is beneficial. To have where you are going is conducive."
 Image: "Thunder and wind: the image of duration. Thus the superior man stands firm and does not change his direction."
 Line 32.1: "Wanting duration too quickly persistently brings disaster. Nothing that would be beneficial."
@@ -384,7 +384,7 @@ Line 32.4: "There is no game in the field."
 Line 32.5: "To give his character endurance through perseverance is for a woman a salvation, for a man a disaster."
 Line 32.6: "Restlessness as a permanent state brings disaster."
 @
-Hexagram: 33 "DUN / THE RETURN"
+Hexagram: 33 "䷠ DUN / THE RETURN"
 Judgment: "The retreat. Success. In small things, perseverance is beneficial."
 Image: "Under the sky is the mountain: the image of retreat. Thus the superior man keeps the commoner away, not angrily, but measuredly."
 Line 33.1: "When retreating by the tail: that's dangerous. You must not want to do something."
@@ -394,7 +394,7 @@ Line 33.4: "Voluntary retreat brings salvation to the noble, destruction to the 
 Line 33.5: "Friendly retreat. Perseverance brings salvation."
 Line 33.6: "Cheerful retreat. Everything is beneficial."
 @
-Hexagram: 34 "DA DSCHUANG / THE GREAT POWER"
+Hexagram: 34 "䷡ DA DSCHUANG / THE GREAT POWER"
 Judgment: "The great power. Perseverance is the key"
 Image: "The thunder is in the sky above: the image of the power of the Great One. So the superior man does not tread paths that are not in order."
 Line 34.1: "Power in the toes. Going away brings disaster. That is certainly true."
@@ -404,7 +404,7 @@ Line 34.4: "Perseverance brings salvation. Remorse disappears. The hedge opens, 
 Line 34.5: "Lose the buck with ease. No regrets"
 Line 34.6: "A goat bumps into a hedge: he can't go back, he can't go forward. Nothing is favourable. If one realises the difficulties, salvation brings.".
 @
-Hexagram: 35 "DSIN / THE PROGRESS"
+Hexagram: 35 "䷢ DSIN / THE PROGRESS"
 Judgment: "The progress: The strong prince is honoured by horses in great numbers. He is received three times in one day"
 Image: "The sun rises above the earth: the image of progress. Thus the superior man himself makes his clear plants bright."
 Line 35.1: "Progress, but rejected. Perseverance brings salvation. If you cannot find confidence, remain calm. No mistake."
@@ -414,7 +414,7 @@ Line 35.4: "Progress like a hamster. Persistence brings danger."
 Line 35.5: "Remorse fades. Do not take gain and loss to heart. Endeavours bring salvation. Everything is beneficial."
 Line 35.6: "One may only advance with the horns to punish one's own territory. Awareness of danger brings salvation. No stain of perseverance brings shame."
 @
-Hexagram: 36 "MING / THE REFINEMENT OF LIGHT"
+Hexagram: 36 "䷣ MING / THE REFINEMENT OF LIGHT"
 Judgment: "The darkening of the light. It is beneficial to persevere in adversity."
 Image: "The light has sunk into the earth: the image of the darkening of the light. Thus the superior man lives with the great multitude: he veils his light and yet remains bright."
 Line 36.1: "Darkening of the light in flight. He lowers his wings. The noble one on his wanderings eats nothing for three days. But he has where to go. The landlord has to talk about him."
@@ -424,7 +424,7 @@ Line 36.4: "He enters the left abdominal cavity. One receives the heart of the e
 Line 36.5: "Darkening of the light as with Prince Gi. Perseverance is conducive."
 Line 36.6: "Not light, but darkness. First he ascended to heaven, then he plunged into the depths of the earth."
 @
-Hexagram: 37 "GIA JEN / THE CLAN"
+Hexagram: 37 "䷤ GIA JEN / THE CLAN"
 Judgment: "The clan. The perseverance of the woman is favourable."
 Image: "The wind comes out of the fire: the image of the clan. Thus the noble man has the cause in his words and the duration in his behaviour."
 Line 37.1: "Firm conclusion within the clan. Remorse disappears."
@@ -434,7 +434,7 @@ Line 37.4: "She is the wealth of the house. Great salvation!"
 Line 37.5: "A king approaches his kin, do not be afraid. Hail !"
 Line 37.6: "His work is awe-inspiring. Finally, salvation comes."
 @
-Hexagram: 38 "KUI / THE CONTRAST"
+Hexagram: 38 "䷥ KUI / THE CONTRAST"
 Judgment: "The contrast In small things salvation!"
 Image: "Above the fire, below the lake: the image of contrast. In this way, the noble man retains his uniqueness despite the community."
 Line 38.1: "Remorse fades. If you lose your horse, don't run after it. It will come back by itself. If you see evil people, beware of mistakes."
@@ -444,7 +444,7 @@ Line 38.4: "Isolated by contrast, you meet a like-minded person with whom you ca
 Line 38.5: "Remorse fades. The companion bites through the shell. If you go to him, how would that be a mistake?"
 Line 38.6: "Isolated by opposition, you see your companion like a dirty pig, like a wagon full of devils First you draw your bow at him, then you put the bow away. He is not a robber, he wants to be free at the deadline. Rain falls as he goes, then salvation comes."
 @
-Hexagram: 39 "GIEN / THE OBSTACLE"
+Hexagram: 39 "䷦ GIEN / THE OBSTACLE"
 Judgment: "The obstacle. The south-west is favourable. The north-east is not favourable. Conducive is to see the great man. Perseverance is of salvation."
 Image: "On the mountain is the water: the image of the obstacle. This is how the superior man turns to his own person and forms his character."
 Line 39.1: "Going leads to hindrance, coming finds praise."
@@ -454,7 +454,7 @@ Line 39.4: "Going leads to obstacles, coming leads to union."
 Line 39.5: "In the midst of the greatest obstacles come friends."
 Line 39.6: "Going leads to obstacles, coming leads to great salvation. It is favourable to see the great man."
 @
-Hexagram: 40 "HIE / THE LIBERATION"
+Hexagram: 40 "䷧ HIE / THE LIBERATION"
 Judgment: "The liberation. The south-west is favourable. When there is nothing left to go to, the return is salvation. If there is still something to go to, then speed is salvation."
 Image: "Thunder and rain rise: the image of liberation. Thus the Noble One forgives mistakes and pardons guilt."
 Line 40.1: "Without blemish."
@@ -464,7 +464,7 @@ Line 40.4: "Free yourself from your big toe. Then the mate will come, and you ca
 Line 40.5: "If only the superior man can free himself, that brings salvation. He shows the wicked that he is serious."
 Line 40.6: "The prince shoots at a hawk on a high wall. He kills it. Everything is favourable."
 @
-Hexagram: 41 "SUN / THE DIMINISHMENT"
+Hexagram: 41 "䷨ SUN / THE DIMINISHMENT"
 Judgment: "Diminishment combined with truthfulness works sublime salvation without blemish. One can persevere in this. It is beneficial to take action. How does one practise this? Two small bowls may be used for sacrifice."
 Image:41 "Down by the mountain is the lake: the image of diminishment. This is how the superior man tames his anger and restrains his impulses."
 Line 41.1: "When business is done, going there quickly is not a fault. But one must consider how far one may diminish others."
@@ -474,7 +474,7 @@ Line 41.4: "If you minimise your shortcomings, you make the other person come qu
 Line 41.5: "Someone is multiplying him. Ten pairs of tortoises cannot resist it. Sublime salvation!"
 Line .6: "If one is increased without diminishing others, this is no blemish. Perseverance brings salvation. It is beneficial to do something. One gets servants, but no longer has a special home."
 @
-Hexagram: 42 "I. / THE INCREASE"
+Hexagram: 42 "䷩ I. / THE INCREASE"
 Judgment: "The increase. It is beneficial to do something. It is beneficial to cross the great water."
 Image: "Wind and thunder: the image of increase. Thus the superior man: if he sees good, he imitates it; if he has faults, he discards them."
 Line 42.1: "Promoting is to do great deeds. Exalted salvation is no blemish."
@@ -484,7 +484,7 @@ Line 42.4: "If you walk in the centre and report to the prince, he will follow; 
 Line 42.5: "If you truly have a kind heart, do not ask. Sublime salvation! Goodness will truly be recognised as your virtue."
 Line 42.6: "He does not add to anyone's wealth. Someone even beats him. He does not hold on to his heart all the time. Disaster!"
 @
-Hexagram: 43 "GUAI / THE BREAKTHROUGH (THE DETERMINATION)"
+Hexagram: 43 "䷪ GUAI / THE BREAKTHROUGH (THE DETERMINATION)"
 Judgment: "The breakthrough. The matter must be announced resolutely at the king's court. It must be proclaimed according to the truth. Danger ! You must inform your own city. It is not favourable to take up arms. It is favourable to take action."
 Image: "The lake has risen to the sky: the image of the breakthrough. Thus the Noble One dispenses wealth downwards and shuns dwelling on his virtue."
 Line 43.1: "Initially one means: Powerful in the toes walking forwards. If you go and are not up to the task, you make a mistake."
@@ -494,7 +494,7 @@ Line 43.4: "There is no skin on the thighs, and walking is difficult. If one wer
 Line 43.5: "Firm resolve is needed in the face of the tares. Walking in the centre remains free from blemish."
 Line 43.6: "No call! After all, disaster is coming."
 @
-Hexagram: 44 "GOU / THE ENCOUNTER"
+Hexagram: 44 "䷫ GOU / THE ENCOUNTER"
 Judgment: "The concession. The girl is powerful. One should not marry such a girl."
 Image: "Under the sky is the wind: the image of favour. This is what the prince does when he spreads his orders and proclaims them to the four quarters of heaven."
 Line 44.1: "It must be restrained with a brazen wheel-shoe. Perseverance is good. If you let it go, you will meet with disaster. Even a lean pig has the ability to run wild."
@@ -504,7 +504,7 @@ Line 44.4: "There is no fish in the tank. From it rises disaster."
 Line 44.5: "Melon covered with willow leaves: hidden lines. It falls to you from the sky."
 Line 44.6: "He approaches with his horns. Shame on him. No blemish."
 @
-Hexagram: 45 "TSUI / THE COLLECTION"
+Hexagram: 45 "䷬ TSUI / THE COLLECTION"
 Judgment: "The collection. Success. The king approaches his temple. It is favourable to see the great man. This brings success. Perseverance is beneficial. Making great sacrifices brings salvation. It is beneficial to take action."
 Image: "The lake is above the earth: the image of the collection. Thus the superior man renews his weapons to meet the unforeseen."
 Line 45.1: "If you are true, but not to the end, there is soon confusion, soon collection. If you shout, you can laugh again after a grasp. Regret nothing. To go is without blemish."
@@ -514,7 +514,7 @@ Line 45.4: "Great salvation ! No blemish"
 Line 45.5: "If one has the position in the gathering, there is no blemish. If some are not yet truly in it, it requires sublime, constant perseverance, then the remorse disappears."
 Line 45.6: "Lamentations and sighs, tears in streams. No blemish."
 @
-Hexagram: 46 "SCHONG / THE RISING"
+Hexagram: 46 "䷭ SCHONG / THE RISING"
 Judgment: "The rising has sublime success. One must see the great man. Fear not! Departure to the south brings salvation."
 Image: "Wood grows in the midst of the earth: the image of rising. This is how the noble, devoted being piles up small things to make them high and great."
 Line 46.1: "Reach up, find confidence, great salvation."
@@ -524,7 +524,7 @@ Line 46.4: "The king offers it to Mount Ki. Hail. No blemish."
 Line 46.5: "Perseverance brings salvation. You climb up on steps."
 Line 46.6: "Reaching up in the dark. It is beneficial to be persistent without ceasing."
 @
-Hexagram: 47 "KUN / THE TRIBULATION (THE EXHAUSTION)"
+Hexagram: 47 "䷮ KUN / THE TRIBULATION (THE EXHAUSTION)"
 Judgment: "The tribulation. Success. Perseverance. The great man works salvation. No blemish. If you have something to say, it will not be believed."
 Image: "There is no water in the lake: the image of exhaustion. So the superior man stakes his life on following his will."
 Line 47.1: "One sits oppressed under a hollow tree and falls into a dark valley. For three years you see nothing."
@@ -534,7 +534,7 @@ Line 47.4: "He comes very gently, beset in a golden chariot. Shame, but one come
 Line 47.5: "His nose and feet are cut off. One is oppressed by the one in purple knee bandages. Joy comes gently. It is beneficial to bring sacrifices and donations."
 Line 47.6: "He is oppressed by tendrils. He moves uncertainly and says: "Movement creates remorse" If one feels remorse about this and sets out, one has salvation."
 @
-Hexagram: 48 "DSING / THE WELL"
+Hexagram: 48 "䷯ DSING / THE WELL"
 Judgment: "The well. You may change the city, but you can't change the well. It does not decrease and does not increase. You come and go and draw from the well. If you have almost reached the well water but have not yet reached the bottom with the rope or break your jug, it brings disaster."
 Image: "Above the wood is water: the image of the fountain. Thus the nobleman encourages the people at work and exhorts them to help one another."
 Line 48.1: "The mud of the well is not drunk. No animals come to an old well."
@@ -544,7 +544,7 @@ Line 48.4: "The well is bricked up, no blemish."
 Line 48.5: "In the well is a clear, cool spring that you can drink."
 Line 48.6: "One draws from the well without hindrance. It is reliable. Sublime salvation!"
 @
-Hexagram: 49 "GO / THE REVOLUTION (THE MOULTING)"
+Hexagram: 49 "䷰ GO / THE REVOLUTION (THE MOULTING)"
 Judgment: "The upheaval. On your own day, there you will find faith. Sublime success, furthered by perseverance. Remorse fades away."
 Image: "There is fire in the lake: the image of upheaval. This is how the Noble One organises the calendar and makes the times clear."
 Line 49.1: "One is wrapped in the skin of a yellow cow."
@@ -554,7 +554,7 @@ Line 49.4: "Repentance fades. One ends faith. Changing the order of the state br
 Line 49.5: "The great man changes like a tiger. Even before he asks the oracle, he finds faith."
 Line 49.6: "The superior man changes like a panther. The lowly moult in the face. Departure brings disaster. Perseverance brings salvation."
 @
-Hexagram: 50 "DING / THE CRUCIBLE"
+Hexagram: 50 "䷱ DING / THE CRUCIBLE"
 Judgment: "The crucible. Sublime salvation. Success."
 Image: "Above the wood is fire: the image of the crucible. This is how the superior man consolidates his destiny by making his position right."
 Line 50.1: "A crucible with upturned legs. Conducive to removing the end of the stick. One takes a concubine for the sake of her son. No blemish."
@@ -564,7 +564,7 @@ Line 50.4: "The crucible breaks the legs. The prince's meal is spilt, and the fi
 Line 50.5: "The crucible has yellow handles and gold support rings. Perseverance is conducive."
 Line 50.6: "The crucible has nephrite rings. Great salvation! Nothing that would not be beneficial."
 @
-Hexagram: 51 "DCHEN / THE SHAKING (THE SHOCKING THUNDER)"
+Hexagram: 51 "䷲ DCHEN / THE SHAKING (THE SHOCKING THUNDER)"
 Judgment: "The shaking brings success. The shaking comes: Hu, Hu ! Laughing words: Ha, Ha! The shaking frightens a hundred miles, and he does not drop the sacrificial spoon and cup."
 Image: "Continued thunder: the image of shaking. Thus the superior man makes his life right with fear and trembling and explores himself."
 Line 51.1: "The shaking comes: Hu, Hu ! Followed by laughing words: Ha, Ha! Hail !"
@@ -574,7 +574,7 @@ Line 51.4: "The shaking gets into mud."
 Line 51.5: "The shaking goes back and forth: danger. But you don't lose anything, only there is business."
 Line 51.6: "Shaking brings decay and fearful looking around. Going ahead brings disaster. If it has not yet reached your own body, but has only reached your neighbour, there is no blame. The comrades have to speak."
 @
-Hexagram: 52 "GEN / THE STILL, THE MOUNTAIN"
+Hexagram: 52 "䷳ GEN / THE STILL, THE MOUNTAIN"
 Judgment: "Keeping his back still, so that he no longer feels his body. He goes into his courtyard and does not see his people. No blemish."
 Image: "Mountains standing together: the image of keeping still. Thus the noble man does not go beyond his position with his thoughts."
 Line 52.1: "Keeping his sight still. Not a flaw. Perseverance is beneficial."
@@ -584,7 +584,7 @@ Line 52.4: "Keeping his torso still. Not a flaw."
 Line 52.5: "Keep his jaws still. The words have order. The remorse fades."
 Line 52.6: "Generous silence. Hail!"
 @
-Hexagram: 53 "DSIEN / THE DEVELOPMENT (ALL-MOTIVE PROGRESS)"
+Hexagram: 53 "䷴ DSIEN / THE DEVELOPMENT (ALL-MOTIVE PROGRESS)"
 Judgment: "The development. The girl will be married. Hail ! Perseverance is beneficial."
 Image: "On the mountain, a tree is the image of development. Thus the noble man dwells in worthy virtue to improve morals."
 Line 53.1: "The wild goose gradually moves towards the shore. The young son is in danger. There is talk. No blemish"
@@ -594,7 +594,7 @@ Line 53.4: "The wild goose gradually moves towards the tree. Maybe it will get t
 Line 53.5: "The wild goose gradually approaches the summit. The woman does not have a child for three years. At last she can't prevent salvation!"
 Line 53.6: "The wild goose gradually moves towards the heights of the clouds. Its feathers can be used for the sacred dance. Hail !"
 @
-Hexagram: 54 "GUI ME / THE MARRIED GIRL"
+Hexagram: 54 "䷵ GUI ME / THE MARRIED GIRL"
 Judgment: "The marrying girl. Endeavours bring disaster. Nothing that would be beneficial."
 Image: "Above the lake is the thunder: the image of the marrying girl. Thus the superior man recognises the transient through the eternity of the end."
 Line 54.1: "The marrying girl as a concubine. A lame man who can perform. Endeavours bring salvation."
@@ -604,7 +604,7 @@ Line 54.4: "The marrying girl delays the deadline. A late marriage comes in its 
 Line 54.5: "The ruler I marries his daughter. The embroidered dresses of the princess were not as splendid as those of the servant. The moon, which is almost full, brings salvation."
 Line 54.6: "The woman holds the basket, but there is no fruit in it. The man stabs the sheep, but there is no blood. Nothing that would be beneficial."
 @
-Hexagram: 55 "FONG / THE FILL"
+Hexagram: 55 "䷶ FONG / THE FILL"
 Judgment: "The fullness succeeds. The king reaches it. Do not be sad; you must be like the sun at noon."
 Image: "Thunder and lightning both come: the image of abundance. This is how the Noble One decides the trials and executes the punishments."
 Line 55.1: "When you meet your destined Lord, you may be together for ten days, and it is not a mistake. Going there finds recognition."
@@ -614,7 +614,7 @@ Line 55.4: "The curtain is of such fullness that at noon one sees the cushions. 
 Line 55.5: "Lines are coming, blessings and glory are approaching. Hail!"
 Line 55.6: "His house is in abundance. He hides his clan. He peeps through the gate and notices no one. For three years he sees nothing. Disaster!"
 @
-Hexagram: 56 "LÜ / THE WANDERER"
+Hexagram: 56 "䷷ LÜ / THE WANDERER"
 Judgment: "The Wanderer. Success through smallness. Perseverance is the wanderer's salvation."
 Image: "There is fire on the mountain: the image of the wanderer. Thus the superior man is clear and careful in the application of punishments and does not drag out disputes."
 Line 56.1: "If the traveller indulges in petty things, he brings misfortune upon himself."
@@ -624,7 +624,7 @@ Line 56.4: "The traveller rests in a place of lodging. He gains his possessions 
 Line 56.5: "He shoots a pheasant and falls on the first arrow. Finally comes praise and office."
 Line 56.6: "The bird's nest burns. The traveller laughs at first, then he must lament and weep. He loses the cow in recklessness. Disaster!"
 @
-Hexagram: 57 "SUN / THE GENTLE (THE INVENTIVE, THE WIND)"
+Hexagram: 57 "䷸ SUN / THE GENTLE (THE INVENTIVE, THE WIND)"
 Judgment: "The gentle. Through small success. It is beneficial to have where you are going. It is beneficial to see the great man."
 Image: "Winds following one another: the image of the gently penetrating one. This is how the superior man spreads his commandments and does his business."
 Line 57.1: "In advancing and retreating, the perseverance of a warrior is favourable."
@@ -634,7 +634,7 @@ Line 57.4: "Remorse disappears. When hunting, you catch three kinds of game."
 Line 57.5: "Perseverance brings salvation. Remorse disappears. Nothing that is not beneficial. No beginning, but an end. Before the change three days, after the change three days. Hail !"
 Line 57.6: "Penetration under the bed. He loses his possessions and his axe. Persistence brings disaster."
 @
-Hexagram: 58 "DUI / THE CHEERFUL (THE LAKE)"
+Hexagram: 58 "䷹ DUI / THE CHEERFUL (THE LAKE)"
 Judgment: "The cheerful. Success. Favourable is perseverance."
 Image: "Lakes based on each other: the image of cheerfulness. This is how the noble man gets together with his friends to discuss and practise."
 Line 58.1: "Satisfied cheerfulness. Hail !"
@@ -644,7 +644,7 @@ Line 58.4: "Deliberate cheerfulness is not reassured. After dismissing the mista
 Line 58.5: "Truthfulness against the corrosive is dangerous."
 Line 58.6: "Seductive cheerfulness."
 @
-Hexagram: 59 "HUAN / THE RESOLUTION"
+Hexagram: 59 "䷺ HUAN / THE RESOLUTION"
 Judgment: "The resolution. Success. The king approaches his temple. Crossing the great water is favourable. Perseverance is favourable."
 Image: "The wind passes over the water: the image of dissolution. This is how the ancient kings sacrificed to the Lord and built temples."
 Line 59.1: "He brings help with the power of a horse."
@@ -654,7 +654,7 @@ Line 59.4: "He detaches himself from his flock. Exalted salvation! Through disso
 Line 59.5: "Dissolving like sweat are his loud cries. Dissolution ! A king dwells without blemish."
 Line 59.6: "He dissolves his blood. Going away, staying away, going out is without blemish."
 @
-Hexagram: 60 "DSIE / THE LIMITATION"
+Hexagram: 60 "䷻ DSIE / THE LIMITATION"
 Judgment: "Restriction. Success. Bitter restriction must not be practised persistently."
 Image: "Above the lake is water: the image of limitation So the superior man looks at number and measure and examines what virtue and right behaviour are."
 Line 60.1: "Not going out of doors is not a fault."
@@ -664,7 +664,7 @@ Line 60.4: "Satisfied limitation. Success."
 Line 60.5: "Sweet restraint brings salvation. Going there brings respect."
 Line 60.6: "Bitter restraint: persistence brings disaster. Remorse fades away."
 @
-Hexagram: 61 "DSCHUNG FU / INNER TRUTH"
+Hexagram: 61 "䷼ DSCHUNG FU / INNER TRUTH"
 Judgment: "Inner truth. Pigs and fish. Hail ! It is beneficial to cross the great water. Perseverance is beneficial."
 Image: "Above the lake is the wind: the image of inner truth. This is how the Noble One discusses criminal cases to stop executions."
 Line 61.1: "Being ready brings salvation. If there are ulterior motives, it is unsettling."
@@ -674,7 +674,7 @@ Line 61.4: "The moon, which is almost full. The team horse is lost. No blemish."
 Line 61.5: "He possesses truth that chains. No flaw."
 Line 61.6: "Cockcrow that reaches the heavens. Persistence brings disaster."
 @
-Hexagram: 62 "SIAU GO / THE LITTLE OVERWEIGHT"
+Hexagram: 62 "䷽ SIAU GO / THE LITTLE OVERWEIGHT"
 Judgment: "The small overweight. Success. Perseverance is conducive. One may do small things, one should not do big things. The flying bird brings the message: 'It is not good to strive upwards, it is good to stay down'. All hail !"
 Image: "On the mountain is the thunder: the image of the little one's overweight. Thus, in change, the superior man emphasises reverence. In bereavement, he puts the emphasis on mourning. When it comes to spending, he favours thrift."
 Line 62.1: "The bird comes to disaster by flying"
@@ -684,7 +684,7 @@ Line 62.4: "No blemish. Without passing, he hits him. Going there brings danger.
 Line 62.5: "Thick clouds, no rain from our western region. The prince shoots and hits the one in the cave."
 Line 62.6: "Without hitting him, he passes him by. The flying bird leaves him. Disaster! That means misfortune and harm."
 @
-Hexagram: 63 "GI DSI / AFTER THE COMPLETION"
+Hexagram: 63 "䷾ GI DSI / AFTER THE COMPLETION"
 Judgment: "Success on a small scale. Perseverance is conducive. Salvation in the beginning, turmoil at the end."
 Image: "The water is above the fire: the image of the state after fulfilment. Thus the superior man considers misfortune and prepares himself in advance."
 Line 63.1: "He brakes his wheels. He gets his tail in the water. Not a flaw."
@@ -694,7 +694,7 @@ Line 63.4: "The most beautiful clothes give rags. Be careful all day long."
 Line 63.5: "The neighbour in the east who slaughters an ox does not get as much real happiness as the neighbour in the west with his small sacrifice."
 Line 63.6: "He comes with his head into the water. Danger."
 @
-Hexagram: 64 "WE DSI / BEFORE THE COMPLETION"
+Hexagram: 64 "䷿ WE DSI / BEFORE THE COMPLETION"
 Judgment: "Before completion. Success. But if the little fox, when it has almost completed the transition, comes into the water with its tail, then there is nothing that would be beneficial."
 Image: "The fire is above the water: the image of the state before the transition. Thus the superior man is careful in distinguishing things so that each comes to its place."
 Line 64.1: "He gets his tail in the water. Shameful."
