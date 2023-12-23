@@ -51,9 +51,12 @@ else :
     lns = random.randint(0, 255) % 64
     primary_hexagram = hexs[ lns ]
     for k in range(6) :
-        if random.randint(0,255) < 64 : # Three coins probabilities
+        r = random.randint(0,255)
+        l = 1 << k
+        if ((lns & l) != 0 and r < 48) or (r < 16)  : # 16 marbles probabilities
+            # print(f"r:{r} l:{lns & l}")
             mv.append(k+1)
-            lns ^= (1<<k)
+            lns ^= l
     secondary_hexagram = hexs[ lns ]
 
 if (primary_hexagram == 1 and secondary_hexagram == 2) or (primary_hexagram == 2 and secondary_hexagram == 1) :
